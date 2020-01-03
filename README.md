@@ -1,1 +1,1 @@
-# TrackMyCircle
+This is an application to track our closed ones, developed in React Native # TrackMyCircle
